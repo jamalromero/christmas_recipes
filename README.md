@@ -1,2 +1,2 @@
 # christmas_recipes
-Explore Christams recipes
+Explore data in Christams recipes
